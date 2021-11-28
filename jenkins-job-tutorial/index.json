@@ -14,8 +14,12 @@
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Configure Jenkins Job",
         "text": "step3.md"
+      },
+      {
+        "title": "Run Jenkins Job",
+        "text": "step4.md"
       }
     ],
     "intro": {
